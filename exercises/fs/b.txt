@@ -1,0 +1,120 @@
+| ID    | checkboxTitle                            |
++-------+------------------------------------------+
+| 22500 | Origin Queries                           | 
+| 22600 | Valid Origin Queries                     | 
+| 28900 | Avg Total Origin Query Time              | 
+| 22700 | InterAsp Queries                         | 
+| 26000 | Total Valid Queries                      | 
+|  9000 | Feed Calls                               | 
+| 10000 | Timeouts                                 | 
+| 11000 | Valid Feed Calls                         | 
+| 12500 | Timeouts Per Feed Call                   | 
+| 26500 | Calls Per Query                          | 
+| 10500 | Avg Feed Call Time                       | 
+| 14000 | Feed Coverage                            | 
+| 13000 | Valid Feed Coverage                      | 
+|  7600 | Budget Depleted / Misconfiguration       | 
+|  4100 | Ecpm Clipped                             | 
+|  4200 | DayPart Block                            | 
+|  4500 | CPIP Filter                              | 
+|  5000 | Geo Filter                               | 
+|  6500 | IP Block                                 | 
+|  6600 | Keyword Block                            | 
+|  6700 | Referer Block                            | 
+|  6000 | Missing UA/Ref                           | 
+|  7610 | IE User Agent Filter                     | 
+|  7620 | Chrome User Agent Filter                 | 
+|  7630 | Firefox User Agent Filter                | 
+|  7640 | Safari User Agent Filter                 | 
+|  7650 | Other User Agent Filter                  | 
+|  7500 | MaxQuery Throttle                        | 
+|  8000 | Feed Filters/Tolerances                  | 
+| 18000 | Publisher Request Ratio                  | 
+| 18050 | Ad Return Ratio                          | 
+| 18060 | Ad Available Ratio                       | 
+| 19000 | CPC Clipped                              | 
+| 20000 | Excess Ads                               | 
+| 21000 | Publisher Used Listings                  | 
+| 28000 | Publisher Coverage                       | 
+| 29000 | Avg Publisher Listings                   | 
+| 22000 | Avg Used Listings                        | 
+| 28800 | Avg Query Postcall Time                  | 
+| 28700 | Avg Query Call Time                      | 
+| 28600 | Avg Query Precall Time                   | 
+| 28500 | Avg Query Time                           | 
+| 30000 | Gross Clicks                             | 
+| 30050 | Gross Clicks Per Origin Query            | 
+| 30060 | Gross Clicks Per Total Gross Query       | 
+| 30070 | Gross Clicks Per Publisher Used Listings | 
+| 89000 | Incomplete URL                           | 
+| 57050 | Click Time Filter                        | 
+| 41270 | Interasp Filter                          | 
+| 41100 | IP Mismatch                              | 
+| 41000 | UA Mismatch                              | 
+| 41200 | Referer Mismatch                         | 
+| 42000 | CPL Filter                               | 
+| 43000 | CPQ Filter                               | 
+| 44000 | CPIP Filter                              | 
+| 55000 | Click Cap Filter                         | 
+| 41900 | Cookie Filtered                          | 
+| 54000 | Domain Filter                            | 
+| 51100 | Backbutton Filter                        | 
+| 90000 | No Flash Filter                          | 
+| 41300 | Offscreen Filtered                       | 
+| 41960 | Advanced JS Filtered                     | 
+| 41600 | IFrame Filtered                          | 
+| 57000 | Total Filtered Clicks                    | 
+| 40100 | Rollover Redirect Drops                  | 
+| 40500 | Cookie Redirect Drops                    | 
+| 45100 | RefPage Redirect Drops                   | 
+| 47100 | JS Redirect Drops                        | 
+| 58000 | Total Dropped                            | 
+| 59000 | System Errors                            | 
+| 60000 | Total Errors and Drops                   | 
+| 41400 | Offscreen                                | 
+| 41450 | Onscreen                                 | 
+| 41470 | Noscreen                                 | 
+| 40000 | Rollover Clicks                          | 
+| 40200 | Non-Rollover Clicks                      | 
+| 41920 | Cookie Pass                              | 
+| 41940 | Cookie Fail                              | 
+| 41700 | IFrame Pass                              | 
+| 41800 | IFrame Fail                              | 
+| 41970 | Advanced JS Pass                         | 
+| 44500 | NaturalPlus Complete                     | 
+| 45000 | Ref Assign JS                            | 
+| 45050 | Natural JS                               | 
+| 47000 | Completed RefPage                        | 
+| 48000 | Final Redirect                           | 
+| 49000 | Max JS Neg Plus                          | 
+| 32000 | Estimated Net Clicks                     | 
+| 33000 | Good Click Ratio                         | 
+| 33800 | Estimated Gross Revenue                  | 
+| 36500 | Avg Estimated Gross CPC                  | 
+| 34000 | ASP Estimated Revenue                    | 
+| 35000 | Estimated Publisher Revenue              | 
+| 38000 | Avg Estimated Publisher CPC              | 
+| 35500 | Estimated Feed Ecpm                      | 
+| 35600 | Estimated Publisher Ecpm                 | 
+| 68000 | Valid Net Clicks                         | 
+| 68050 | Valid Clicks Per Origin Query            | 
+| 68060 | Valid Clicks Per Total Valid Query       | 
+| 68070 | Valid Clicks Per Publisher Used Listings | 
+| 33100 | Feed CTR                                 | 
+| 33200 | Feed Net CTR                             | 
+| 33300 | Publisher CTR                            | 
+| 33400 | Publisher Net CTR                        | 
+| 33350 | Publisher Valid CTR                      | 
+| 66000 | Valid Click Ratio                        | 
+| 68700 | Valid Gross Revenue                      | 
+| 69000 | Valid ASP Net Revenue                    | 
+| 71000 | Valid Publisher Revenue                  | 
+| 67000 | Valid Revenue Ratio                      | 
+| 72500 | Valid Avg Gross CPC                      | 
+| 73000 | Valid Avg Publisher CPC                  | 
+| 82000 | Valid Gross ECPM                         | 
+| 83000 | Valid Publisher ECPM                     | 
+| 86000 | Ad Unit Impressions                      | 
+| 87000 | Ad Unit Keywords                         | 
+| 88000 | Ad Unit CTR                              | 
++-------+------------------------------------------+
